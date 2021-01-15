@@ -1,0 +1,41 @@
+.second-section {
+    margin-top: 50px;
+    padding: 10px;
+}
+
+.of-img {}
+
+.of-img img {
+    width: 80%;
+}
+
+.new-card {
+    border: none;
+    padding: 20px 20px;
+}
+
+.new-card img {
+    padding: 50px 50px;
+    height: 60%;
+    background-color: aquamarine;
+    border-radius: 5%;
+}
+
+.new-card-footer {
+    background-color: white;
+    border: none;
+}
+
+.last-side {
+    height: 150px;
+}
+
+.last img {
+    width: 200px;
+    background-color: white;
+}
+
+.only img {
+    width: 100%;
+    padding: 10px;
+}
